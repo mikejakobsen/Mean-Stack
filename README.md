@@ -5,6 +5,11 @@
 
 A simple mean stack project.
 
-´´
-	npm install && bower install
-´´
+### npm install && bower install
+
+
+> Mongo
+> use leg
+switched to db leg
+
+> db.messages.insert({message: 'Hej Mike'})
